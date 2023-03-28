@@ -1,5 +1,5 @@
 # Password-Manager #
-A Password Manager that allows user's to store all their passwords locally
+A Password Manager using doubly linked lists that allows user's to store all their passwords locally
 ## Features ##
 * Login/Signup
 * Add Password
